@@ -1,0 +1,495 @@
+Fingers: 1
+Response: SetPoint [mm]:39.00 Vyska [cm]:24.50 Vrtula:1100.00
+
+Fingers: 2
+Response: SetPoint [mm]:38.00 Vyska [cm]:24.50 Vrtula:1100.00
+
+Fingers: 3
+Response: SetPoint [mm]:37.00 Vyska [cm]:24.50 Vrtula:1100.00
+
+Fingers: 4
+Response: SetPoint [mm]:36.00 Vyska [cm]:24.50 Vrtula:1100.00
+
+Fingers: 5
+Response: SetPoint [mm]:35.00 Vyska [cm]:24.50 Vrtula:1100.00
+
+Fingers: 5
+Response: SetPoint [mm]:34.00 Vyska [cm]:19.14 Vrtula:1400.00
+
+Fingers: 5
+Response: SetPoint [mm]:33.00 Vyska [cm]:19.14 Vrtula:1400.00
+
+Fingers: 5
+Response: SetPoint [mm]:32.00 Vyska [cm]:19.14 Vrtula:1400.00
+
+Fingers: 5
+Response: SetPoint [mm]:31.00 Vyska [cm]:19.14 Vrtula:1400.00
+
+Fingers: 5
+Response: SetPoint [mm]:30.00 Vyska [cm]:19.14 Vrtula:1400.00
+
+Fingers: 5
+Response: SetPoint [mm]:29.00 Vyska [cm]:19.55 Vrtula:1224.64
+
+Fingers: 5
+Response: SetPoint [mm]:29.00 Vyska [cm]:19.55 Vrtula:1224.64
+
+Fingers: 4
+Response: SetPoint [mm]:29.00 Vyska [cm]:19.55 Vrtula:1224.64
+
+Fingers: 3
+Response: SetPoint [mm]:29.00 Vyska [cm]:19.55 Vrtula:1224.64
+
+Fingers: 2
+Response: SetPoint [mm]:29.00 Vyska [cm]:19.55 Vrtula:1224.64
+
+Fingers: 2
+Response: SetPoint [mm]:29.00 Vyska [cm]:19.11 Vrtula:1298.21
+
+Fingers: 1
+Response: SetPoint [mm]:29.00 Vyska [cm]:19.11 Vrtula:1298.21
+
+Fingers: 1
+Response: SetPoint [mm]:29.00 Vyska [cm]:19.11 Vrtula:1298.21
+
+Fingers: 1
+Response: SetPoint [mm]:30.00 Vyska [cm]:19.11 Vrtula:1298.21
+
+Fingers: 1
+Response: SetPoint [mm]:30.00 Vyska [cm]:19.11 Vrtula:1298.21
+
+Fingers: 1
+Response: SetPoint [mm]:30.00 Vyska [cm]:19.12 Vrtula:1259.87
+
+Fingers: 1
+Response: SetPoint [mm]:30.00 Vyska [cm]:19.12 Vrtula:1259.87
+
+Fingers: 1
+Response: SetPoint [mm]:30.00 Vyska [cm]:19.12 Vrtula:1259.87
+
+Fingers: 1
+Response: SetPoint [mm]:30.00 Vyska [cm]:19.12 Vrtula:1259.87
+
+Fingers: 1
+Response: SetPoint [mm]:31.00 Vyska [cm]:19.12 Vrtula:1259.87
+
+Fingers: 1
+Response: SetPoint [mm]:31.00 Vyska [cm]:19.18 Vrtula:1258.01
+
+Fingers: 1
+Response: SetPoint [mm]:31.00 Vyska [cm]:19.18 Vrtula:1258.01
+
+Fingers: 1
+Response: SetPoint [mm]:31.00 Vyska [cm]:19.18 Vrtula:1258.01
+
+Fingers: 1
+Response: SetPoint [mm]:32.00 Vyska [cm]:19.18 Vrtula:1258.01
+
+Fingers: 1
+Response: SetPoint [mm]:33.00 Vyska [cm]:19.18 Vrtula:1258.01
+
+Fingers: 1
+Response: SetPoint [mm]:34.00 Vyska [cm]:18.64 Vrtula:1311.35
+
+Fingers: 1
+Response: SetPoint [mm]:35.00 Vyska [cm]:18.64 Vrtula:1311.35
+
+Fingers: 1
+Response: SetPoint [mm]:34.00 Vyska [cm]:18.64 Vrtula:1311.35
+
+Fingers: 1
+Response: SetPoint [mm]:35.00 Vyska [cm]:18.64 Vrtula:1311.35
+
+Fingers: 1
+Response: SetPoint [mm]:34.00 Vyska [cm]:20.52 Vrtula:1265.03
+
+Fingers: 1
+Response: SetPoint [mm]:33.00 Vyska [cm]:20.33 Vrtula:1289.19
+
+Fingers: 1
+Response: SetPoint [mm]:34.00 Vyska [cm]:20.81 Vrtula:1288.65
+
+Fingers: 1
+Response: SetPoint [mm]:33.00 Vyska [cm]:20.91 Vrtula:1294.93
+
+Fingers: 1
+Response: SetPoint [mm]:33.00 Vyska [cm]:20.81 Vrtula:1276.28
+
+Fingers: 1
+Response: SetPoint [mm]:33.00 Vyska [cm]:20.93 Vrtula:1280.87
+
+Fingers: 1
+Response: SetPoint [mm]:33.00 Vyska [cm]:21.08 Vrtula:1332.01
+
+Fingers: 1
+Response: SetPoint [mm]:33.00 Vyska [cm]:21.55 Vrtula:1298.22
+
+Fingers: 1
+Response: SetPoint [mm]:33.00 Vyska [cm]:21.65 Vrtula:1267.99
+
+Fingers: 1
+Response: SetPoint [mm]:33.00 Vyska [cm]:21.01 Vrtula:1356.59
+
+Fingers: 1
+Response: SetPoint [mm]:33.00 Vyska [cm]:22.53 Vrtula:1266.29
+
+Fingers: 1
+Response: SetPoint [mm]:33.00 Vyska [cm]:23.13 Vrtula:1251.25
+
+Fingers: 1
+Response: SetPoint [mm]:33.00 Vyska [cm]:23.93 Vrtula:1235.92
+
+Fingers: 1
+Response: SetPoint [mm]:33.00 Vyska [cm]:24.59 Vrtula:1241.04
+
+Fingers: 1
+Response: SetPoint [mm]:33.00 Vyska [cm]:24.04 Vrtula:1237.13
+
+Fingers: 1
+Response: SetPoint [mm]:33.00 Vyska [cm]:23.69 Vrtula:1342.50
+
+Fingers: 1
+Response: SetPoint [mm]:32.00 Vyska [cm]:24.90 Vrtula:1220.15
+
+Fingers: 1
+Response: SetPoint [mm]:31.00 Vyska [cm]:25.36 Vrtula:1253.22
+
+Fingers: 1
+Response: SetPoint [mm]:32.00 Vyska [cm]:25.93 Vrtula:1273.58
+
+Fingers: 1
+Response: SetPoint [mm]:33.00 Vyska [cm]:25.33 Vrtula:1321.60
+
+Fingers: 2
+Response: SetPoint [mm]:34.00 Vyska [cm]:26.22 Vrtula:1276.10
+
+Fingers: 2
+Response: SetPoint [mm]:35.00 Vyska [cm]:27.16 Vrtula:1252.59
+
+Fingers: 2
+Response: SetPoint [mm]:36.00 Vyska [cm]:27.77 Vrtula:1337.40
+
+Fingers: 2
+Response: SetPoint [mm]:37.00 Vyska [cm]:28.54 Vrtula:1280.47
+
+Fingers: 2
+Response: SetPoint [mm]:38.00 Vyska [cm]:29.36 Vrtula:1277.63
+
+Fingers: 2
+Response: SetPoint [mm]:39.00 Vyska [cm]:30.67 Vrtula:1265.41
+
+Fingers: 2
+Response: SetPoint [mm]:40.00 Vyska [cm]:31.05 Vrtula:1314.05
+
+Fingers: 2
+Response: SetPoint [mm]:41.00 Vyska [cm]:32.18 Vrtula:1357.64
+
+Fingers: 2
+Response: SetPoint [mm]:42.00 Vyska [cm]:33.93 Vrtula:1269.05
+
+Fingers: 2
+Response: SetPoint [mm]:43.00 Vyska [cm]:34.95 Vrtula:1298.00
+
+Fingers: 2
+Response: SetPoint [mm]:44.00 Vyska [cm]:36.36 Vrtula:1370.37
+
+Fingers: 2
+Response: SetPoint [mm]:45.00 Vyska [cm]:37.96 Vrtula:1315.19
+
+Fingers: 2
+Response: SetPoint [mm]:46.00 Vyska [cm]:40.41 Vrtula:1299.13
+
+Fingers: 2
+Response: SetPoint [mm]:47.00 Vyska [cm]:41.58 Vrtula:1303.34
+
+Fingers: 2
+Response: SetPoint [mm]:48.00 Vyska [cm]:43.54 Vrtula:1243.96
+
+Fingers: 2
+Response: SetPoint [mm]:49.00 Vyska [cm]:44.38 Vrtula:1252.88
+
+Fingers: 2
+Response: SetPoint [mm]:50.00 Vyska [cm]:45.09 Vrtula:1296.99
+
+Fingers: 2
+Response: SetPoint [mm]:51.00 Vyska [cm]:46.43 Vrtula:1289.35
+
+Fingers: 2
+Response: SetPoint [mm]:52.00 Vyska [cm]:47.08 Vrtula:1254.65
+
+Fingers: 2
+Response: SetPoint [mm]:53.00 Vyska [cm]:47.23 Vrtula:1233.58
+
+Fingers: 2
+Response: SetPoint [mm]:54.00 Vyska [cm]:46.92 Vrtula:1264.10
+
+Fingers: 2
+Response: SetPoint [mm]:55.00 Vyska [cm]:45.74 Vrtula:1400.00
+
+Fingers: 2
+Response: SetPoint [mm]:56.00 Vyska [cm]:47.18 Vrtula:1264.38
+
+Fingers: 2
+Response: SetPoint [mm]:57.00 Vyska [cm]:47.29 Vrtula:1344.15
+
+Fingers: 2
+Response: SetPoint [mm]:58.00 Vyska [cm]:48.20 Vrtula:1281.44
+
+Fingers: 2
+Response: SetPoint [mm]:59.00 Vyska [cm]:48.71 Vrtula:1223.50
+
+Fingers: 2
+Response: SetPoint [mm]:60.00 Vyska [cm]:47.87 Vrtula:1304.21
+
+Fingers: 2
+Response: SetPoint [mm]:60.00 Vyska [cm]:48.76 Vrtula:1272.65
+
+Fingers: 2
+Response: SetPoint [mm]:60.00 Vyska [cm]:49.11 Vrtula:1371.61
+
+Fingers: 2
+Response: SetPoint [mm]:60.00 Vyska [cm]:49.40 Vrtula:1200.00
+
+Fingers: 2
+Response: SetPoint [mm]:60.00 Vyska [cm]:49.40 Vrtula:1273.47
+
+Fingers: 2
+Response: SetPoint [mm]:60.00 Vyska [cm]:49.83 Vrtula:1200.00
+
+Fingers: 2
+Response: SetPoint [mm]:60.00 Vyska [cm]:49.78 Vrtula:1349.04
+
+Fingers: 2
+Response: SetPoint [mm]:60.00 Vyska [cm]:50.12 Vrtula:1262.53
+
+Fingers: 2
+Response: SetPoint [mm]:60.00 Vyska [cm]:50.88 Vrtula:1263.23
+
+Fingers: 2
+Response: SetPoint [mm]:60.00 Vyska [cm]:46.98 Vrtula:1354.76
+
+Fingers: 2
+Response: SetPoint [mm]:59.00 Vyska [cm]:53.30 Vrtula:1294.86
+
+Fingers: 2
+Response: SetPoint [mm]:58.00 Vyska [cm]:50.46 Vrtula:1400.00
+
+Fingers: 2
+Response: SetPoint [mm]:57.00 Vyska [cm]:46.99 Vrtula:1400.00
+
+Fingers: 2
+Response: SetPoint [mm]:56.00 Vyska [cm]:51.74 Vrtula:1332.86
+
+Fingers: 2
+Response: SetPoint [mm]:55.00 Vyska [cm]:46.34 Vrtula:1400.00
+
+Fingers: 2
+Response: SetPoint [mm]:54.00 Vyska [cm]:47.41 Vrtula:1400.00
+
+Fingers: 2
+Response: SetPoint [mm]:53.00 Vyska [cm]:51.55 Vrtula:1332.97
+
+Fingers: 2
+Response: SetPoint [mm]:52.00 Vyska [cm]:51.25 Vrtula:1365.85
+
+Fingers: 2
+Response: SetPoint [mm]:51.00 Vyska [cm]:48.30 Vrtula:1400.00
+
+Fingers: 2
+Response: SetPoint [mm]:50.00 Vyska [cm]:47.97 Vrtula:1400.00
+
+Fingers: 2
+Response: SetPoint [mm]:49.00 Vyska [cm]:48.56 Vrtula:1361.00
+
+Fingers: 2
+Response: SetPoint [mm]:48.00 Vyska [cm]:49.88 Vrtula:1298.62
+
+Fingers: 2
+Response: SetPoint [mm]:47.00 Vyska [cm]:50.24 Vrtula:1289.65
+
+Fingers: 2
+Response: SetPoint [mm]:46.00 Vyska [cm]:50.10 Vrtula:1291.17
+
+Fingers: 2
+Response: SetPoint [mm]:45.00 Vyska [cm]:48.40 Vrtula:1343.90
+
+Fingers: 2
+Response: SetPoint [mm]:44.00 Vyska [cm]:48.76 Vrtula:1295.13
+
+Fingers: 2
+Response: SetPoint [mm]:43.00 Vyska [cm]:48.13 Vrtula:1400.00
+
+Fingers: 2
+Response: SetPoint [mm]:42.00 Vyska [cm]:47.32 Vrtula:1307.45
+
+Fingers: 2
+Response: SetPoint [mm]:41.00 Vyska [cm]:46.72 Vrtula:1292.99
+
+Fingers: 2
+Response: SetPoint [mm]:40.00 Vyska [cm]:46.96 Vrtula:1249.79
+
+Fingers: 2
+Response: SetPoint [mm]:39.00 Vyska [cm]:46.89 Vrtula:1319.25
+
+Fingers: 2
+Response: SetPoint [mm]:38.00 Vyska [cm]:45.67 Vrtula:1345.93
+
+Fingers: 2
+Response: SetPoint [mm]:37.00 Vyska [cm]:46.55 Vrtula:1282.90
+
+Fingers: 2
+Response: SetPoint [mm]:36.00 Vyska [cm]:44.21 Vrtula:1344.16
+
+Fingers: 2
+Response: SetPoint [mm]:35.00 Vyska [cm]:44.09 Vrtula:1263.09
+
+Fingers: 3
+Response: SetPoint [mm]:34.00 Vyska [cm]:43.54 Vrtula:1267.00
+
+Fingers: 2
+Response: SetPoint [mm]:33.00 Vyska [cm]:42.66 Vrtula:1237.61
+
+Fingers: 2
+Response: SetPoint [mm]:32.00 Vyska [cm]:40.45 Vrtula:1276.85
+
+Fingers: 1
+Response: SetPoint [mm]:31.00 Vyska [cm]:39.79 Vrtula:1232.89
+
+Fingers: 1
+Response: SetPoint [mm]:30.00 Vyska [cm]:38.61 Vrtula:1306.18
+
+Fingers: 1
+Response: SetPoint [mm]:29.00 Vyska [cm]:38.80 Vrtula:1264.10
+
+Fingers: 1
+Response: SetPoint [mm]:28.00 Vyska [cm]:37.78 Vrtula:1303.46
+
+Fingers: 3
+Response: SetPoint [mm]:27.00 Vyska [cm]:36.48 Vrtula:1303.69
+
+Fingers: 4
+Response: SetPoint [mm]:26.00 Vyska [cm]:34.62 Vrtula:1304.54
+
+Fingers: 3
+Response: SetPoint [mm]:25.00 Vyska [cm]:34.28 Vrtula:1264.46
+
+Fingers: 3
+Response: SetPoint [mm]:24.00 Vyska [cm]:33.54 Vrtula:1261.25
+
+Fingers: 2
+Response: SetPoint [mm]:23.00 Vyska [cm]:33.49 Vrtula:1222.22
+
+Fingers: 1
+Response: SetPoint [mm]:22.00 Vyska [cm]:32.85 Vrtula:1220.26
+
+Fingers: 0
+Response: SetPoint [mm]:21.00 Vyska [cm]:31.99 Vrtula:1250.56
+
+Fingers: 0
+Response: SetPoint [mm]:20.00 Vyska [cm]:31.86 Vrtula:1217.24
+
+Fingers: 1
+Response: SetPoint [mm]:19.00 Vyska [cm]:31.24 Vrtula:1210.62
+
+Fingers: 3
+Response: SetPoint [mm]:18.00 Vyska [cm]:30.09 Vrtula:1289.19
+
+Fingers: 2
+Response: SetPoint [mm]:17.00 Vyska [cm]:29.38 Vrtula:1254.95
+
+Fingers: 2
+Response: SetPoint [mm]:16.00 Vyska [cm]:28.92 Vrtula:1284.57
+
+Fingers: 2
+Response: SetPoint [mm]:15.00 Vyska [cm]:28.59 Vrtula:1252.62
+
+Fingers: 2
+Response: SetPoint [mm]:14.00 Vyska [cm]:27.56 Vrtula:1211.14
+
+Fingers: 1
+Response: SetPoint [mm]:13.00 Vyska [cm]:26.63 Vrtula:1200.00
+
+Fingers: 2
+Response: SetPoint [mm]:12.00 Vyska [cm]:25.38 Vrtula:1213.01
+
+Fingers: 2
+Response: SetPoint [mm]:11.00 Vyska [cm]:24.40 Vrtula:1200.00
+
+Fingers: 2
+Response: SetPoint [mm]:10.00 Vyska [cm]:22.96 Vrtula:1348.24
+
+Fingers: 3
+Response: SetPoint [mm]:9.00 Vyska [cm]:22.56 Vrtula:1200.00
+
+Fingers: 4
+Response: SetPoint [mm]:8.00 Vyska [cm]:21.67 Vrtula:1220.31
+
+Fingers: 5
+Response: SetPoint [mm]:7.00 Vyska [cm]:22.29 Vrtula:1200.00
+
+Fingers: 4
+Response: SetPoint [mm]:6.00 Vyska [cm]:22.25 Vrtula:1296.33
+	
+Fingers: 4
+Response: SetPoint [mm]:5.00 Vyska [cm]:21.41 Vrtula:1400.00
+$
+Fingers: 3
+Response: SetPoint [mm]:4.00 Vyska [cm]:20.91 Vrtula:1367.70
+*
+Fingers: 1
+Response: SetPoint [mm]:3.00 Vyska [cm]:22.35 Vrtula:1298.27
+
+Fingers: 1
+Response: SetPoint [mm]:2.00 Vyska [cm]:23.16 Vrtula:1200.00
+
+Fingers: 0
+Response: SetPoint [mm]:1.00 Vyska [cm]:21.51 Vrtula:1397.08
+
+Fingers: 1
+Response: SetPoint [mm]:0.00 Vyska [cm]:22.78 Vrtula:1200.00
+
+Fingers: 2
+Response: SetPoint [mm]:0.00 Vyska [cm]:21.94 Vrtula:1258.99
+�
+Fingers: 2
+Response: SetPoint [mm]:0.00 Vyska [cm]:21.91 Vrtula:1327.43
+9
+Fingers: 1
+Response: SetPoint [mm]:0.00 Vyska [cm]:21.96 Vrtula:1204.95
+4
+Fingers: 1
+Response: SetPoint [mm]:0.00 Vyska [cm]:22.22 Vrtula:1200.00
+
+
+Fingers: 1
+Response: SetPoint [mm]:1.00 Vyska [cm]:21.92 Vrtula:1200.00
+
+Fingers: 0
+Response: SetPoint [mm]:2.00 Vyska [cm]:25.15 Vrtula:1400.00
+
+Fingers: 2
+Response: SetPoint [mm]:3.00 Vyska [cm]:21.91 Vrtula:1323.38
+�
+Fingers: 2
+Response: SetPoint [mm]:4.00 Vyska [cm]:23.90 Vrtula:1200.00
+
+Fingers: 1
+Response: SetPoint [mm]:4.00 Vyska [cm]:23.06 Vrtula:1200.00
+�
+Fingers: 0
+Response: SetPoint [mm]:4.00 Vyska [cm]:24.85 Vrtula:1200.00
+�
+Fingers: 0
+Response: SetPoint [mm]:4.00 Vyska [cm]:23.09 Vrtula:1200.00
+�
+Fingers: 0
+Response: SetPoint [mm]:4.00 Vyska [cm]:23.14 Vrtula:1200.00
+�
+Fingers: 1
+Response: SetPoint [mm]:3.00 Vyska [cm]:23.14 Vrtula:1200.00
+
+Fingers: 3
+Response: SetPoint [mm]:4.00 Vyska [cm]:24.00 Vrtula:1200.00
+
+Fingers: 4
+Res
